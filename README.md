@@ -1,8 +1,6 @@
 # Deep Phase Retrieval (DPR)
 This repository contains code for the generative model experiments in the paper: [Phase Retrieval Under a Generative Prior](https://arxiv.org/abs/1807.04261).
 
-**Please note: repository is not fully complete!**
-
 ### Requirements
 ---
 1. Python 2.7
