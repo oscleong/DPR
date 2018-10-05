@@ -46,5 +46,5 @@ This repository contains code for the generative model experiments in the paper:
 ---
 To change the number of random restarts, please see the bottom of the file ```/src/phase_retrieval.py```. 
 Other parameters such as number of measurements, learning rate, iterations of gradient descent, etc can be found and 
-changed in the dataset's respective ```reconstr.sh``` file
+changed in the dataset's respective ```{dataset}_reconstr.sh``` file
  (depending on the experiments you are interested in running).
