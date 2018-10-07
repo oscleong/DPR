@@ -7,6 +7,7 @@ This repository contains code for the generative model experiments in the paper:
 2. [Tensorflow 1.0.1](https://www.tensorflow.org/install/)
 3. [Scipy](https://www.scipy.org/install.html)
 4. [PyPNG](http://stackoverflow.com/a/31143108/3537687)
+5. wget (to download the models)
 
 ### Instructions
 ---
